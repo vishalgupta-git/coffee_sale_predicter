@@ -1,9 +1,7 @@
 numpy
 pandas
-scikit-learn
 ipykernel
 kaggle
-kagglehub[pandas-datasets]
 matplotlib
 seaborn
 scikit-learn
