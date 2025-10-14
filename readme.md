@@ -63,7 +63,7 @@ It contains sales records including timestamps, coffee types, prices, and other 
 ## 📓 Notebook
 
 You can explore the full analysis in the notebook file:  
-[`coffee_sales_analysis.ipynb`](./coffee_sales_analysis.ipynb)  
+[`coffee_sales_analysis.ipynb`](./notebook.ipynb)  
 
 Open it using Jupyter Notebook, JupyterLab, or VS Code to run and interact with the code.
 
