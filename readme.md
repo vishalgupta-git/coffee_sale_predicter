@@ -60,18 +60,33 @@ It contains sales records including timestamps, coffee types, prices, and other 
 
 ---
 
+## 📓 Notebook
+
+You can explore the full analysis in the notebook file:  
+[`coffee_sales_analysis.ipynb`](./coffee_sales_analysis.ipynb)  
+
+Open it using Jupyter Notebook, JupyterLab, or VS Code to run and interact with the code.
+
+---
+
 ## 🔗 Links
 
 - [Kaggle Dataset](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)  
+- [Kaggle API Documentation](https://www.kaggle.com/docs/api)
 
 ---
 
-## Author
+## Requirements
 
-Vishal Gupta – passionate Data Scientist specializing in ML and AI
+Make sure you have the following Python libraries installed:
 
----
+- numpy  
+- pandas  
+- matplotlib  
+- seaborn  
+- kaggle (for dataset download)
 
-## License
+You can install them with:
 
-This project is open source and available under the MIT License.
+```bash
+pip install numpy pandas matplotlib seaborn kaggle
